@@ -1,0 +1,11 @@
+dependencies:
+
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - argparse
+  - h5py
+
+  - pip:
+    - simplejson
