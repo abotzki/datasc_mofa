@@ -8,4 +8,4 @@ dependencies:
   - h5py
 
   - pip:
-    - simplejson
+    - git+git://github.com/PMBio/MOFA
