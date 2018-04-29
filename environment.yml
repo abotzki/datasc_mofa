@@ -1,11 +1,4 @@
 dependencies:
 
-  - numpy
-  - pandas
-  - scipy
-  - scikit-learn
-  - argparse
-  - h5py
-
   - pip:
     - git+git://github.com/PMBio/MOFA
